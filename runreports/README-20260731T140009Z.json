@@ -1,9 +1,0 @@
-{
-  "ticket": "README",
-  "lane": "arca",
-  "status": "blocked",
-  "summary": "This ticket belongs to the 'build' surface, whose repo isn't set up yet (arrives with FB-045). Parked.",
-  "started": "2026-07-31T14:00:04Z",
-  "finished": "2026-07-31T14:00:09Z",
-  "repo": "wealthcx01/arca-marketing"
-}
