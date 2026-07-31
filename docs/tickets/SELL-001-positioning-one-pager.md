@@ -1,6 +1,6 @@
 # SELL-001 — Write the positioning one-pager
 
-**Status:** Todo · **Owner:** lane · **Gate:** pr
+**Status:** In progress · **Owner:** lane · **Gate:** pr
 
 ## Why this matters
 Everything else in this repo — the landing page, the emails, the way we describe ARCA to a collector
@@ -28,3 +28,14 @@ Landing page copy, emails, pricing. Those are separate tickets that will cite th
 - [ ] `context/positioning.md` exists and answers all five questions above.
 - [ ] Every capability claim traces to something that exists in the `arca` repo.
 - [ ] Anything unresolved is listed explicitly rather than guessed.
+
+## Notes for review
+Everything in `context/positioning.md` traces to a Shipped ticket in `arca/docs/tickets/` or to a
+named current limit (see the file's own "What it is not" section). Three founder-only facts could
+not be established from either repo and are flagged here, per this ticket's instruction to flag
+rather than guess:
+- **Target price/subscription tier** — no pricing ticket or context file exists yet.
+- **Named competitors** — nothing in `arca/` or `context/` names who ARCA is positioned against.
+- **Brand voice/tone** — no style guide exists; the doc is written plainly, borrowing the "Bloomberg
+  Terminal for Pokemon Cards" framing already present in `arca/CLAUDE.md`, but that framing is
+  inferred, not a specified voice guide.
