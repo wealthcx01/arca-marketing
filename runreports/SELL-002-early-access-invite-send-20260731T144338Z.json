@@ -1,0 +1,9 @@
+{
+  "ticket": "SELL-002-early-access-invite-send",
+  "lane": "arca",
+  "status": "blocked",
+  "summary": "The lane prepared this action but the proposal was refused: compliance.suppression_checked is false — a send cannot be proposed against an unsuppressed list;. Nothing is waiting for your approval. The work is in https://github.com/wealthcx01/arca-marketing/pull/2.",
+  "started": "2026-07-31T14:35:09Z",
+  "finished": "2026-07-31T14:43:38Z",
+  "repo": "wealthcx01/arca-marketing"
+}
