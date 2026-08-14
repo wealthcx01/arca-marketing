@@ -1,0 +1,9 @@
+{
+  "ticket": "SELL-001-positioning-one-pager",
+  "lane": "arca",
+  "status": "working",
+  "summary": "Lane claimed the ticket and started work.",
+  "started": "2026-08-14T08:00:09Z",
+  "finished": "2026-08-14T08:00:11Z",
+  "repo": "wealthcx01/arca-marketing"
+}
